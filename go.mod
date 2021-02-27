@@ -1,4 +1,4 @@
-module changkun.de/x/cyclemod2
+module changkun.de/x/cyclemod2/v2
 
 go 1.16
 

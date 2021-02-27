@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"changkun.de/x/cyclemod"
-	"changkun.de/x/cyclemod2"
+	"changkun.de/x/cyclemod2/v2"
 )
 
 func TestCall(t *testing.T) {
