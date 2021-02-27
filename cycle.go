@@ -8,9 +8,9 @@ import (
 
 // Call prints the depend version of cyclemod
 func Call() {
-	fmt.Printf("cyclemod2@%s depends cyclemod%s\n",
+	fmt.Printf("cyclemod2@%s depends cyclemod@%s\n",
 		Version, cyclemod.Version)
 }
 
 // Version is the version of the module
-var Version = "v0.2.0"
+var Version = "v0.3.0"
